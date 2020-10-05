@@ -1,5 +1,5 @@
 # DeclarativeUI-Next
-Criando interface com DeclarativeUI e Next.JS
+Criando interface com DeclarativeUI, DesignSystem, ChakraUI e Next.JS
 
 ### Benefícios de uma Interface do Usuário Declarativa
 
